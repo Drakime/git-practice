@@ -1,3 +1,4 @@
 # Git Practice
 
-A remote repository by Hung Diep that will be used whilst learning Git.
+A remote repository by Hung Diep for learning Git. Learning commenced from
+01/08/2021.
